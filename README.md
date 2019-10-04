@@ -4,9 +4,11 @@ NPM Package to read and interpret the incoming data from the Neurosky Mind Wave 
 
 # Getting Started
 
-Ensure the library is looking at the correct port
-run: ls /dev/tty.*
-example: "/dev/tty.MindWaveMobile-SerialPo-15"
+Ensure the library is looking at the correct port.
+
+To do so run: ls /dev/tty.*
+
+When you locate the port e.g. "/dev/tty.MindWaveMobile-SerialPo-15" update the index.js line 2.
 
 # Project Status
 
