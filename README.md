@@ -12,4 +12,11 @@ When you locate the port e.g. "/dev/tty.MindWaveMobile-SerialPo-15" update the i
 
 # Project Status
 
-This project currently reads the raw incoming data, it is yet to be interpreted.
+This project currently reads the raw incoming data and prints it to the console each 2 seconds.
+
+This project is still at a very experimental stage, please feel free to
+use this code to enhance your own project or get in touch to help.
+
+# util terminal commands
+
+ps -ft tty - locate tty usage

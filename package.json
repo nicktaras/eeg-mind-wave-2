@@ -1,7 +1,7 @@
 {
   "name": "eeg-mind-wave-2",
   "description": "NPM Package to read and interpret the incoming data from the Neurosky Mind Wave 2 Head set",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "repository": {
