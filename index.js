@@ -15,7 +15,7 @@ port.on('data', function (data) {
   streamBuffer = Buffer.from(data);
 });
 
-// Read data each 10 seconds
+// Read data each 2 seconds
 setInterval(() => {
   const bufferToJSON = JSON.stringify(streamBuffer);
   const dataObj = JSON.parse(bufferToJSON);
