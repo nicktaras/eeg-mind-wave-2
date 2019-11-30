@@ -19,4 +19,4 @@ use this code to enhance your own project or get in touch to help.
 
 # util terminal commands
 
-ps -ft tty - locate tty usage
+ps -ft tty - locate tty connections
